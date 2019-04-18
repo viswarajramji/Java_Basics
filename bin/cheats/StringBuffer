@@ -1,0 +1,14 @@
+Thread safe
+
+dl lair crist
+d-> delete /deleteAt(index)
+l-> lenght
+l-> lastIndex
+a-> append
+i-> IndexOf
+r-> reverse
+c-> charAt
+r-> replace(Char, char) /replace(Index,value)
+i-> insert(indx, val)
+s-> subString
+t-> tostring

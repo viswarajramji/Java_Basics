@@ -1,0 +1,30 @@
+sit
+sit
+rice
+rice
+vitt
+
+Expansion
+s-> substring/substring limit
+i -> indexof(char)
+t-toLowerCase
+
+s-> split(reger)
+i->indexof(string)
+t-> toLowerCase(Locale)_
+
+R-> replace (char,char)
+i -> indexOf(string , limit)
+c-> contains
+e- > equals
+
+R-> replace(string,string)
+i-> indexof(char,limit)
+c-> charAt
+e-> equalsIgnoreCase
+
+V-> valueOf - converts X value string type
+i-> isEmpty()
+t-> trim()
+t-> toupperCase()
+t-> toUpperCase(Locale)

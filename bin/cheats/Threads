@@ -1,0 +1,39 @@
+sss sss s
+iii ii
+ggg
+nn
+rr
+cya 
+dt
+
+s-> start
+s-> suspend
+s-> sleep(Static)
+s-> stop
+s-> setDemon
+s-> setname
+s-> setPrio
+
+i-> isAlive
+i-> isDeamon
+i-> Interrupt
+i-> Interrupted
+i-> isInterrupted
+
+g-> getNAme
+g-> getPriority
+g-> getId
+
+N-> notify
+N-> notifyAll
+
+R-> Resume
+R-> run
+
+c-> currentThread(Static)
+y-> yeild (static)
+a-> alive
+
+d-> dumptrace()
+t-> tostring
+

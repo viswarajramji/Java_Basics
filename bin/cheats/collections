@@ -22,3 +22,8 @@ t-> toArray()
 
 e-> equals
 
+
+Iterator:
+hasNext()
+next()
+remove()

@@ -2,4 +2,23 @@ List-> ArrayList , LinkedList
 Set-> Hashset, LinkedHashset,TreeSet
 Map -> HashMap, TreeMap,LinkedHashMap
 
-Collections is used for manipulation objects 
+Collections is used for manipulation objects .
+
+CCC AA RRR iit e
+C-> contain
+c-> clear
+C-> containsAll
+
+A-> add
+A-> addAll
+
+R-> remove
+R -> removeAll
+R-> retainAll
+
+i-> isEmtpy
+i-> iterator
+t-> toArray()
+
+e-> equals
+

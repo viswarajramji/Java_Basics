@@ -1,0 +1,5 @@
+List-> ArrayList , LinkedList
+Set-> Hashset, LinkedHashset,TreeSet
+Map -> HashMap, TreeMap,LinkedHashMap
+
+Collections is used for manipulation objects 

@@ -27,3 +27,28 @@ Iterator:
 hasNext()
 next()
 remove()
+
+
+ArrayList
+AA iL GS R
+A-> add(index,ele)
+a-> add(index,collectioms)
+I-> indexOf
+L-> lastIndexOf
+G-> get
+s-> set
+r-> remove by Index
+
+LinkedList Inlcudes all ArrayListOperations
+A -> addFirst
+A  -> addLast
+R -> removeFirst
+R -> removeLast
+G -> getFirst
+G  -> getLAst
+P -> pollfirst
+P  -> PollLast
+P -> peekFirst
+P  -> peekLast
+
+
